@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/11_3 JavaFX GUI/11_3 JavaFX GUI.iml" filepath="$PROJECT_DIR$/11_3 JavaFX GUI/11_3 JavaFX GUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11_5 Insertion/11_5 Insertion.iml" filepath="$PROJECT_DIR$/11_5 Insertion/11_5 Insertion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14_2 Classes/14_2 Classes.iml" filepath="$PROJECT_DIR$/14_2 Classes/14_2 Classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14_3 JavaFX GUI 2/14_3 JavaFX GUI 2.iml" filepath="$PROJECT_DIR$/14_3 JavaFX GUI 2/14_3 JavaFX GUI 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/16_2 Math/16_2 Math.iml" filepath="$PROJECT_DIR$/16_2 Math/16_2 Math.iml" />
+      <module fileurl="file://$PROJECT_DIR$/16_5 Errors og skriv-til-fil/16_5 Errors og skriv-til-fil.iml" filepath="$PROJECT_DIR$/16_5 Errors og skriv-til-fil/16_5 Errors og skriv-til-fil.iml" />
+      <module fileurl="file://$PROJECT_DIR$/18_3 Specifikation/18_3 Specifikation.iml" filepath="$PROJECT_DIR$/18_3 Specifikation/18_3 Specifikation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/18_5/18_5.iml" filepath="$PROJECT_DIR$/18_5/18_5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1_4 Arkitektur/1_4 Arkitektur.iml" filepath="$PROJECT_DIR$/1_4 Arkitektur/1_4 Arkitektur.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1_4 Arkitektur Eksempel/1_4 Arkitektur Eksempel.iml" filepath="$PROJECT_DIR$/1_4 Arkitektur Eksempel/1_4 Arkitektur Eksempel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1_4 Arkitektur opg2/1_4 Arkitektur opg2.iml" filepath="$PROJECT_DIR$/1_4 Arkitektur opg2/1_4 Arkitektur opg2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/21_2 If and Scanner/21_2 If and Scanner.iml" filepath="$PROJECT_DIR$/21_2 If and Scanner/21_2 If and Scanner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/23_5 Arrays i flere dimensioner/23_5 Arrays i flere dimensioner.iml" filepath="$PROJECT_DIR$/23_5 Arrays i flere dimensioner/23_5 Arrays i flere dimensioner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/25_2 For Loops/25_2 For Loops.iml" filepath="$PROJECT_DIR$/25_2 For Loops/25_2 For Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/25_5 Prøve-Semesterprøve/25_5 Prøve-Semesterprøve.iml" filepath="$PROJECT_DIR$/25_5 Prøve-Semesterprøve/25_5 Prøve-Semesterprøve.iml" />
+      <module fileurl="file://$PROJECT_DIR$/25_5 Prøve-Semesterprøve2/25_5 Prøve-Semesterprøve2.iml" filepath="$PROJECT_DIR$/25_5 Prøve-Semesterprøve2/25_5 Prøve-Semesterprøve2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/27_4 Nedarvning 2/27_4 Nedarvning 2.iml" filepath="$PROJECT_DIR$/27_4 Nedarvning 2/27_4 Nedarvning 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/28_3 Sammenhænge/28_3 Sammenhænge.iml" filepath="$PROJECT_DIR$/28_3 Sammenhænge/28_3 Sammenhænge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/30_3 Sammenhænge Dobbelt/30_3 Sammenhænge Dobbelt.iml" filepath="$PROJECT_DIR$/30_3 Sammenhænge Dobbelt/30_3 Sammenhænge Dobbelt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/31_5 prøve-Semesterprøve3/31_5 prøve-Semesterprøve3.iml" filepath="$PROJECT_DIR$/31_5 prøve-Semesterprøve3/31_5 prøve-Semesterprøve3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4_3 Arrays/4_3 Arrays.iml" filepath="$PROJECT_DIR$/4_3 Arrays/4_3 Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4_4 Enumeration/4_4 Enumeration.iml" filepath="$PROJECT_DIR$/4_4 Enumeration/4_4 Enumeration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4_4 Prøve-Prøve/4_4 Prøve-Prøve.iml" filepath="$PROJECT_DIR$/4_4 Prøve-Prøve/4_4 Prøve-Prøve.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4_5 Søgning/4_5 Søgning.iml" filepath="$PROJECT_DIR$/4_5 Søgning/4_5 Søgning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4_6 prøve-semesterprøve 4/4_6 prøve-semesterprøve 4.iml" filepath="$PROJECT_DIR$/4_6 prøve-semesterprøve 4/4_6 prøve-semesterprøve 4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6_4 Nedarvning/6_4 Nedarvning.iml" filepath="$PROJECT_DIR$/6_4 Nedarvning/6_4 Nedarvning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/9_2 Objects/9_2 Objects.iml" filepath="$PROJECT_DIR$/9_2 Objects/9_2 Objects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/9_3 ArrayList/9_3 ArrayList.iml" filepath="$PROJECT_DIR$/9_3 ArrayList/9_3 ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/9_5 Sortering/9_5 Sortering.iml" filepath="$PROJECT_DIR$/9_5 Sortering/9_5 Sortering.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Project2 - Yatzy/Project2 - Yatzy.iml" filepath="$PROJECT_DIR$/Project2 - Yatzy/Project2 - Yatzy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Projekt1 - Terningespil/Projekt1 - Terningespil.iml" filepath="$PROJECT_DIR$/Projekt1 - Terningespil/Projekt1 - Terningespil.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestEnviroment/TestEnviroment.iml" filepath="$PROJECT_DIR$/TestEnviroment/TestEnviroment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Workshop0/Workshop0.iml" filepath="$PROJECT_DIR$/Workshop0/Workshop0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Workshop1/Workshop1.iml" filepath="$PROJECT_DIR$/Workshop1/Workshop1.iml" />
+    </modules>
+  </component>
+</project>
