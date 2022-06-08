@@ -71,4 +71,11 @@ public class Hold {
         }
         return found;
     }
+
+    @Override
+    public String toString() {
+        return "" + betegnelse;
+    }
 }
+
+

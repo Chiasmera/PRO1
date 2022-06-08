@@ -62,4 +62,9 @@ public class Tutor {
         }
         return sum;
     }
+
+    @Override
+    public String toString() {
+        return navn + " (" + email + ")";
+    }
 }

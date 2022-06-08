@@ -1,0 +1,8 @@
+Anders Hansen		DMU		1dmE17S		aaa@students.eaaa.dk	Margrethe Dybdahl
+
+Lone Andersen		DMU		1dmE17S		lll@students.eaaa.dk	Margrethe Dybdahl
+
+Niels Madsen		DMU		1dmE17U		nnn@students.eaaa.dk	Kell Ørhøj
+
+Peter Jensen		FINØ		1fiE17B		ppp@students.eaaa.dk	Karen Jensen
+
