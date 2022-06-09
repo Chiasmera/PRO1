@@ -1,0 +1,4 @@
+Lene Hansen	20.0
+Mette Petersen	20.0
+Sofia Kjeldsen	25.0
+Maria Nielsen	55.0
