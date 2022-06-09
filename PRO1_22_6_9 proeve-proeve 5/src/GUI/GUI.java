@@ -115,7 +115,7 @@ public class GUI extends Application {
     }
 
     public void lavFilAction() {
-        String path = "C:\\Users\\Julius Larsen Seerup\\IdeaProjects\\PRO1\\PRO1_22_6_9 proeve-proeve 5\\src\\" + lwKampe.getSelectionModel().getSelectedItem().getSted() + ".txt";
+        String path = "PRO1_22_6_9 proeve-proeve 5\\src\\Storage\\" + lwKampe.getSelectionModel().getSelectedItem().getSted() + ".txt";
         Service.createSpillerHonorarFile(lwKampe.getSelectionModel().getSelectedItem(),path);
     }
 }

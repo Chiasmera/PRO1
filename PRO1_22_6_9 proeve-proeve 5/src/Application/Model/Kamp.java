@@ -54,6 +54,7 @@ public class Kamp implements Comparable<Kamp> {
 
     public void spillerHonorar (String tekstFil) {
         File fil = new File(tekstFil);
+
         try (PrintWriter out = new PrintWriter(fil)) {
             for (Deltagelse d : deltagelser) {
                 if (!d.isAfbud()) {
